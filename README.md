@@ -4,9 +4,9 @@
 
 I have been in software development field for about 17 years and since 3 years back I am holding the position of a software development manager. I am currently engaging with 3 scrums teams and each with 6 engineers. As a people leader, my role mainly involves in growing my people and leading the team towards company’s direction. Coaching the team on agile values and maintaining good working atmosphere within the team have always been my end goal. As a manager with technical background, I always keep myself up to date in the world of technology as Pluralsight is my favorite learning channel. React.js is the latest technical skill I have picked up while cypress is my latest and favourite automation testing tool. Other than having strong development interest, I believe having good exposure in technology will always prove to be an advantage in speaking engineer language.
 
-I have build a simple `CRUD` project with `#node.js`,`#express.js`,`#mongodb`,`#react.js` to demostrate my coding passion. If you are looking for a manager/leader with good technical knowledge, or a technical person with good management skill, I might be the right person for you.
-
 `#DISC`, `#SCRUM`, `#Influencing`
+
+I have build a simple `CRUD` [project](https://demo-hankhee.herokuapp.com/) with `#node.js`,`#express.js`,`#mongodb`,`#react.js` to demostrate my coding passion. If you are looking for a manager/leader with good technical knowledge, or a technical person with good management skill, I might be the right person for you.
 
 ## Links:
 - Demo: https://demo-hankhee.herokuapp.com/
