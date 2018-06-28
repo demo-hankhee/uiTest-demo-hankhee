@@ -6,10 +6,11 @@ I have been in software development field for about 17 years and since 3 years b
 
 I have build a simple `CRUD` project with `#node.js`,`#express.js`,`#mongodb`,`#react.js` to demostrate my coding passion. If you are looking for a manager/leader with good technical knowledge, or a technical person with good management skill, I might be the right person for you.
 
-[]()
-[]()
-
 `#DISC`, `#SCRUM`, `#Influencing`
+
+## Links:
+- Demo: https://demo-hankhee.herokuapp.com/
+- Source code: https://github.com/demo-hankhee/demo-hankhee
 
 ## Employment history
 ### Exact ADC - Technical lead/Senior Software Engineer
@@ -83,12 +84,11 @@ May 2001 - May 2003
 - Bachelor's Degree in Information System Engineering focused in Computer Software Engineering 
 
 
-## Appendix
+## Appendix - 
 - Personal Strengths/Career Needs base on Leader Pop assesment
 
-### In Terms of Enterprising vs Support Role Possibilities
+##### In Terms of Enterprising vs Support Role Possibilities
 ```
-In Terms of Enterprising vs Support Role Possibilities
 You would be described as extremely competitive, enterprising, assertive, aggressive, tough minded, determined and goal
 oriented. You may display new and creative ways to reach your personal and work objectives and you will be selfevaluative
 and sometimes critical of your own performance. Given a goal, objective or requirement, you would be able to
@@ -96,7 +96,7 @@ develop your own plan, manage your time and focus your effort on a daily basis t
 should come very naturally to you and these skills should be refined through formal training and/or on-the-job experience.
 ```
 
-### In Terms of Your Style & Strength of Various Motivations
+##### In Terms of Your Style & Strength of Various Motivations
 ```
 People would see you as being motivated to a very great extent by your sincere concern for the well-being of others. In
 addition, they may see you as a person who has the potential to achieve some very meaningful objectives which have the
@@ -106,7 +106,7 @@ organization whose purpose has real human and/or social merit and where you can 
 special tasks which are very demanding and which will reward you for their successful completion.
 ```
 
-### In Terms of Your Independence vs Your Need to Be in the 'Team'
+##### In Terms of Your Independence vs Your Need to Be in the 'Team'
 ```
 You would be described as quite strong-minded, stubborn, demanding, firm, independent and resolute. You would be
 innovative in certain circumstances to achieve your objectives and tend to seek some additional responsibilities in your job
@@ -114,14 +114,14 @@ and personal life. You would accept minimal supervision but it would be difficul
 supervise you over an extended period of time.
 ```
 
-### In Terms of Your Orientation Towards the 'People' Side of Business
+##### In Terms of Your Orientation Towards the 'People' Side of Business
 ```
 You would be described as somewhat sociable, enthusiastic, cheerful, lively and entertaining. While valuing social
 interactions, you may be somewhat reserved in your initial contacts with new people. The achievement of goals would be
 through personal relationships developed over a longer period of time.
 ```
 
-### In Terms of Your Orientation Towards Technical & Practical Concerns
+##### In Terms of Your Orientation Towards Technical & Practical Concerns
 ```
 You would be described as quite logical, reflective, analytical, factual and practical. A job requiring the solving of
 intellectual or conceptual problems would stimulate a person such as yourself. You would have a flair for technically
