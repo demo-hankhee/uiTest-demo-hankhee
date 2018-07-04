@@ -1,0 +1,25 @@
+{
+  "name": "uitest-demo-hankhee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demo-hankhee/uiTest-demo-hankhee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demo-hankhee/uiTest-demo-hankhee/issues"
+  },
+  "homepage": "https://github.com/demo-hankhee/uiTest-demo-hankhee#readme",
+  "devDependencies": {
+    "cypress": "^3.0.1"
+  }
+}
